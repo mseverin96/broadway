@@ -3,6 +3,29 @@ body {
   font-family:Helvetica;
 }
 
+h1 {
+  font-size:70px;
+}
+
+nav {
+  font-size:18px;
+}
+
+ul {
+  list-style-type:none;
+  padding:0;
+  margin:0;
+}
+
+a {
+  font-family:Helvetica;
+  color:white;
+}
+
+.bold {
+  font-weight:bold;
+}
+
 .pichead {
   color:white;
   background-image:url("../pictures/the-flatiron-building.png")
